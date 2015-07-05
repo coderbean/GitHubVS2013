@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gmailDemo", "gmailDemo\gmailDemo.csproj", "{E460498D-98E0-44B2-8E2D-08BFE183ECB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo1", "Demo1\Demo1.csproj", "{69E05A4A-5A12-4137-9528-66DADD1E2F8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E460498D-98E0-44B2-8E2D-08BFE183ECB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E460498D-98E0-44B2-8E2D-08BFE183ECB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E460498D-98E0-44B2-8E2D-08BFE183ECB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E460498D-98E0-44B2-8E2D-08BFE183ECB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69E05A4A-5A12-4137-9528-66DADD1E2F8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69E05A4A-5A12-4137-9528-66DADD1E2F8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69E05A4A-5A12-4137-9528-66DADD1E2F8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69E05A4A-5A12-4137-9528-66DADD1E2F8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
