@@ -64,7 +64,7 @@ namespace GmailQuickstart
             //    Console.WriteLine("No labels found.");
             //}
             Console.WriteLine("================================================\n按下回车查看每个对话的每个消息的snippet");
-            Console.Read();
+            Console.Read();  
 
             //显示thread ID
             List<Google.Apis.Gmail.v1.Data.Thread> threads = ListThreads(service, "me");
