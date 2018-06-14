@@ -24,7 +24,7 @@ Could you do it in O(n) time and O(1) space?
 
 
 #### Solution
-```
+```python
 # Definition for singly-linked list.
 # class ListNode:
 #     def __init__(self, x):
